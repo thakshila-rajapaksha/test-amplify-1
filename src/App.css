@@ -14,19 +14,19 @@
 }
 
 .App-header {
-  background-color:darkblue;
+  background-color: #00008B;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: left;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(8px + 2vmin);
   color: white;
 }
 
 .App-button {
-  align-items: first baseline;
-  color:aqua;
+  align-items: right;
+  color: #61dafb;
 }
 
 .App-link {
